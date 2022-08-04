@@ -15,7 +15,7 @@ public class PostResponsePayload {
     private String categories;
     private String author;
     private Integer numberOfLikes;
-    private List<String> likedBy;
+    private List<String>  likedBy;
     private List<CommentResponsePayload> commentsList;
 
 }
